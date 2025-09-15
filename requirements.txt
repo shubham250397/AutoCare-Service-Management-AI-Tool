@@ -1,0 +1,9 @@
+streamlit>=1.36
+pandas>=2.2
+numpy>=1.26
+plotly>=5.22
+scikit-learn>=1.4
+# Optional (your code gracefully falls back if missing)
+xgboost>=2.0
+google-generativeai>=0.7
+pydantic>=2.6
